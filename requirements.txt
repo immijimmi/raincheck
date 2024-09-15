@@ -1,0 +1,3 @@
+tkcomponents~=2.1.1
+managedstate~=5.1.0
+objectextensions~=2.0.1
